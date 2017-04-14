@@ -9,6 +9,10 @@ body {
   text-decoration: underline;
 }
 
+p {
+  font-size: 14px;
+}
+
 /*topSection styling*/
 #topSection {
   color: white;
@@ -27,7 +31,15 @@ body {
 }
 
 /*middleSection styling*/
+#middleSection h2 {
+  font-size: 32px;
+  font-weight: bold;
+}
 
+#middleSection h3 {
+  font-size: 23px;
+  font-weight: bold;
+}
 
 
 /*bottomSection styling*/
